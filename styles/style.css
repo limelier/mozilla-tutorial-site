@@ -1,0 +1,36 @@
+html {
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    background-color: #FF9500;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #F1F1D9;
+    padding: 0 20px 20px 20px;
+    /* border: 5px solid black; */
+    box-shadow: 0 0 10px darkred;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #F48042;
+    font-size: 60px;
+    font-family: 'ZCOOL XiaoWei', serif;
+    text-shadow: 1px 1px 1px darkred;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    color: #3C3632;
+    /* letter-spacing: 1px; */
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
